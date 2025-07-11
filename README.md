@@ -1,85 +1,84 @@
-<h1 align="center">Hi 👋, I'm Ruchika</h1>
-<h3 align="center">💻 Associate Software Engineer | Web Developer | B.Tech CSE Graduate</h3>
+<h1 align="center">Hey there! 👋 I'm Ruchika</h1>
+<h3 align="center">💻 B.Tech CSE Graduate | Frontend Developer | AI + Web Enthusiast</h3>
 
----
-
-### 🌟 About Me
-
-- 🎓 **B.Tech CSE Graduate** from Sobhasaria Group of Institutions (BTU Affiliated) | CGPA: 8.59  
-- 💻 Enthusiastic **Associate Software Engineer** with a passion for building responsive web applications,or Programmer.**  
-- 🧠 Strong in **JavaScript**, **React**, **Tailwind CSS**, **OOP**, **Python**,**Github**,**Python Libraries** and **Data Structures & Algorithms**  
-- 🤖 Creator of projects like **MockCraft – AI Interview App**, Calculator, Tic Tac Toe, and more  
-- 🌱 Exploring the **MERN stack**, enhancing backend skills with Node.js & MongoDB or **Data Analysis**.
-- 📍 Based in: *Sikar, Rajasthan, India*  
-- 📫 Email: **ruchika6004@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /></a>
+<p align="center">
+  <i>Fueling ideas into responsive web apps. Curious mind. Fast learner. Passionate about meaningful tech.</i>
 </p>
 
 ---
 
-### 📁 Projects
+### 🚀 About Me
 
-- 🔹 **MockCraft – AI-Powered Mock Interview App**  
-  _Simulates interview practice using AI-generated questions and feedback._  
-  **Tech Used:** ReactJS, JavaScript, CSS
-
-- 🔹 **Mini Frontend Projects**  
-  _Calculator, Tic Tac Toe, Stopwatch, and Responsive Landing Page._  
-  **Tech Used:** HTML, CSS, JavaScript
-
-- 🔹 **Python Scripts & Basic Web Apps**  
-  _Built using Python fundamentals and frontend concepts._
-
-> 🔗 [View All Projects](https://github.com/Ruchika-6004?tab=repositories)
+- 👩‍🎓 Graduated with a B.Tech in Computer Science (Sobhasaria Group of Institutions – BTU) | CGPA: 8.59  
+- 💡 I build things that *look good* and *work better* — from frontend apps to AI mock interview tools  
+- 🌱 Currently expanding into MERN Stack | Love solving problems through code (hello DSA & OOP 👩‍💻)  
+- 🤖 Developed **MockCraft**, an AI-powered interview simulation platform  
+- ⚡ Mini-projects addict — Calculator, Tic Tac Toe, Stopwatch, and landing pages are just the beginning  
+- 🏡 Sikar, Rajasthan | 🌐 [Portfolio Soon]  
+- 📫 Reach me at: **ruchika6004@gmail.com**
 
 ---
 
-### 👩‍💼 Internships & Certifications
+### 🧠 Tech I'm Comfortable With
 
-- 💼 **Web Developer Intern** – *Prodigy Infotech* (Nov–Dec 2024)  
-- 💼 **Web Design & Python Intern** – *Seldom India Technologies* (May–July 2023)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-**📜 Certifications**  
-- Data Structures & Algorithms (Upflairs)  
-- Web Designing (Info Era Software Services)  
-- Basic Computer Course (STP)  
-- Python Stack (Infosys Springboard)
+---
+
+### 🧩 Featured Projects
+
+💡 **MockCraft – AI Mock Interview App**  
+> Simulates realistic interview experiences using AI questions & feedback  
+`Tech:` ReactJS, JavaScript, CSS  
+
+🎮 **Mini Frontend Projects**  
+> Stopwatch ⏱️ | Tic Tac Toe 🎲 | Calculator 🧮 | Verna Landing Page 🚘  
+`Tech:` HTML, CSS, JS  
+
+🐍 **Python Scripting Projects**  
+> Scripts + beginner web apps — a playground of ideas & logic
+
+🔗 [View More Projects →](https://github.com/Ruchika-6004?tab=repositories)
+
+---
+
+### 📜 Internships & Certifications
+
+- 👩‍💼 Web Developer Intern — *Prodigy Infotech* (Nov–Dec 2024)  
+- 👩‍💼 Web + Python Intern — *Seldom India Technologies* (May–July 2023)  
+
+**📚 Courses & Certifications:**  
+> DSA – Upflairs | Python – Infosys Springboard | Web Design – Info Era | Basic Computer – STP
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruchika-6004&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruchika-6004&show_icons=true&theme=midnight-purple" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchika-6004&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchika-6004&layout=compact&theme=midnight-purple" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let’s Connect
 
-<p align="left">
-  <a href="mailto:ruchika6004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/ruchika-81113332a/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://github.com/Ruchika-6004">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="mailto:ruchika6004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ruchika-81113332a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Ruchika-6004"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+<p align="center"><i>“Keep building. Keep learning. The journey is just as exciting as the code.” 🚀</i></p>
